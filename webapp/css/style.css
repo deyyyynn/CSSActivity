@@ -1,1 +1,22 @@
-/* Enter your custom styles here */
+.sapFCardHeader .sapFCardHeaderText .sapFCardTitle .sapMTextLineClamp{
+    color: green ;
+    font-size: 1rem ;
+} 
+
+.sapMTB-Transparent-CTX .sapMTitle {
+    text-shadow: none ;
+    color: crimson ;
+}
+
+.sapMPageWithFloatingFooter .sapMPageFooter .sapMIBar-CTX.sapMFooter-CTX.sapMTB.sapMTBStandard {
+    border-top-width: 0 ;
+    background-color: bisque ;
+}
+
+.sapUiSizeCompact.sapMDialog .sapMDialogTitleGroup .sapMHeader-CTX, .sapUiSizeCompact .sapMDialog .sapMDialogTitleGroup .sapMHeader-CTX, .sapUiSizeCompact.sapMDialog .sapMDialogTitleGroup .sapMSubHeader-CTX, .sapUiSizeCompact .sapMDialog .sapMDialogTitleGroup .sapMSubHeader-CTX{
+        background-color: crimson;
+}
+
+.sapMDialog>header .sapMDialogTitleGroup .sapMTitle{
+    color:yellow
+}
